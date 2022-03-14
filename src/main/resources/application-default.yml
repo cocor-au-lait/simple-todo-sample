@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql:todo-list
+    username: todo-list
+    password: todo-list
