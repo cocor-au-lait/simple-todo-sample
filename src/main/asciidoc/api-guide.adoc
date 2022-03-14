@@ -1,0 +1,33 @@
+[[top]]
+= G-mark Judge API Guide
+
+[[resources_index]]
+== Index
+
+[[resources_index_entrypoint]]
+=== Entrypoint
+
+operation::index[snippets='response-fields,curl-request,http-response']
+
+[[resources_tasks]]
+== Tasks
+
+[[resources_tasks_list]]
+=== List tasks
+
+operation::tasks-list[snippets='response-fields,curl-request,http-response']
+
+[[resources_tasks_create]]
+=== Create tasks
+
+operation::tasks-create[snippets='request-fields,curl-request,http-response']
+
+[[resources_tasks_update]]
+=== Update tasks
+
+operation::tasks-update[snippets='request-fields,curl-request,http-response']
+
+[[resources_tasks_delete]]
+=== Delete tasks
+
+operation::tasks-delete[snippets='curl-request,http-response']

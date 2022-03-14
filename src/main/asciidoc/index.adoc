@@ -1,0 +1,4 @@
+= G-mark Judge Document
+
+[horizontal]
+<<api-guide.adoc#top,API Guide>> :: API Guide

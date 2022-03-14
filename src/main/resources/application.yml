@@ -1,0 +1,9 @@
+spring:
+  data:
+    rest:
+      return-body-on-create: true
+      return-body-on-update: true
+  jpa:
+    properties:
+      hibernate:
+        metadata_builder_contributor: cocor.au.lait.todolist.core.internal.UUIDMetadataBuilderContributor
